@@ -1,0 +1,26 @@
+{
+  "name": "fluent-date-range-picker",
+  "version": "1.2.0",
+  "description": "A user-friendly date range picker with flexible configurations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nicolacrystal/fluent-date-range-picker"
+  },
+  "keywords": [
+    "date",
+    "range",
+    "picker",
+    "fluent",
+    "ui"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.21.3",
+    "tippy.js": "^6.3.1",
+    "@popperjs/core": "^2.9.2"
+  }
+}
