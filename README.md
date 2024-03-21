@@ -1,4 +1,4 @@
-```markdown
+
 # fluent-date-range-picker
 
 A flexible date range picker library with a fluent interface.
@@ -29,5 +29,4 @@ const datePicker = new FluentDateRangePicker(document.getElementById('dateRangeP
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 ```
